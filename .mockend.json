@@ -1,5 +1,8 @@
 {
-  "User": {
-    "title": { "string": {} }
-  }
+  "goals": [
+    {
+      "id": 1,
+      "name": "Complete traveling around the world"
+    }
+  ]
 }
